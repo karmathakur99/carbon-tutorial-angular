@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+// tst commit
 
 @Component({
 	selector: 'app-root',
